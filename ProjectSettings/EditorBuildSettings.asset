@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Difficulty.unity
+    guid: 3d051e240737f8f4faeba6d060423229
+  - enabled: 1
+    path: Assets/Scenes/Maze Runner.unity
+    guid: cfcff26e9431edc45b0e33b931ded3c2
+  m_configObjects: {}
